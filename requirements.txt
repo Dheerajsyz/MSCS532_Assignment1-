@@ -1,1 +1,7 @@
+# MSCS532 Assignment 1 - Requirements
+# Python 3.6+ with built-in libraries
+
+# For development/testing (optional):
+# pytest>=6.0.0
+# mypy>=0.800
 
