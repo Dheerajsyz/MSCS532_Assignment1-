@@ -1,4 +1,4 @@
-# MSCS532 Assignment 1 - Insertion Sort (Decreasing Order)
+# MSCS532 Assignment 1 - Insertion Sort (Decreasing Order)  
 
 ## Project Description
 This project implements the Insertion Sort algorithm modified to sort arrays in monotonically decreasing order (largest to smallest).
